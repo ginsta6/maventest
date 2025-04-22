@@ -29,7 +29,7 @@ def is_valid_image(src):
         return False
         
     # Check if the URL contains '/brochures/'
-    return '/brochures/' in src_lower
+    return 'admin/contentfiles/' in src_lower
 
 def get_image_url(img):
     # Check for various lazy loading attributes
@@ -95,7 +95,7 @@ def main():
     # TODO: automate the scraping process and add dynamic file naming
 
     # Example URL - replace with the webpage you want to scrape
-    url = "https://akcijuleidinys.lt/lidl-akciju-leidinys"
+    url = "https://www.raskakcija.lt/maxima-akciju-leidinys.htm"
     
     print(f"Scraping images from: {url}")
     image_urls = scrape_images(url)

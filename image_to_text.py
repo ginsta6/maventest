@@ -6,49 +6,23 @@ import os
 import json
 from datetime import datetime
 
-# ===== TEMPORARY DEBUG FUNCTION - CAN BE REMOVED LATER =====
-def save_enhanced_image(img, original_path, step_name):
-    # Create enhanced_images directory if it doesn't exist
-    enhanced_dir = "enhanced_images"
-    if not os.path.exists(enhanced_dir):
-        os.makedirs(enhanced_dir)
-    
-    # Get original filename without extension
-    base_name = os.path.splitext(os.path.basename(original_path))[0]
-    # Create new filename with step name
-    new_filename = f"{base_name}_{step_name}.png"
-    new_path = os.path.join(enhanced_dir, new_filename)
-    
-    # Save the image
-    img.save(new_path)
-    return new_path
-# ===== END TEMPORARY DEBUG FUNCTION =====
-
-def preprocess_image(img, original_path=None):
+def preprocess_image(img):
     # Convert to grayscale
     img = img.convert('L')
-    # ===== TEMPORARY DEBUG SAVE =====
-    if original_path:
-        save_enhanced_image(img, original_path, "grayscale")
-    # ===== END TEMPORARY DEBUG SAVE =====
     
     # Enhance contrast
     enhancer = ImageEnhance.Contrast(img)
     img = enhancer.enhance(2.0)  # Increase contrast
-    # ===== TEMPORARY DEBUG SAVE =====
-    if original_path:
-        save_enhanced_image(img, original_path, "contrast")
-    # ===== END TEMPORARY DEBUG SAVE =====
     
     # Enhance sharpness
     enhancer = ImageEnhance.Sharpness(img)
     img = enhancer.enhance(2.0)  # Increase sharpness
-    # ===== TEMPORARY DEBUG SAVE =====
-    if original_path:
-        save_enhanced_image(img, original_path, "sharpness")
-    # ===== END TEMPORARY DEBUG SAVE =====
-
-
+    
+    # Apply slight blur to reduce noise
+    img = img.filter(ImageFilter.GaussianBlur(radius=0.5))
+    
+    # Apply threshold to make text more distinct
+    img = img.point(lambda x: 0 if x < 128 else 255, '1')
     
     return img
 
@@ -58,7 +32,7 @@ def extract_text_from_image(image_path):
         img = Image.open(image_path)
         
         # Preprocess the image
-        img = preprocess_image(img, image_path)  # Pass image_path for debugging
+        # img = preprocess_image(img)
         
         # Extract text using Tesseract
         text = pytesseract.image_to_string(img, lang='lit')
@@ -120,7 +94,7 @@ def process_images_in_folder(folder_path):
 
 def main():
     # Example usage - replace with your folder path
-    folder_path = "./"
+    folder_path = "./images/testing"
     process_images_in_folder(folder_path)
 
 if __name__ == "__main__":

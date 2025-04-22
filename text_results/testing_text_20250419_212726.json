@@ -1,0 +1,11 @@
+{
+    "timestamp": "20250419_212726",
+    "source_folder": "./images/testing",
+    "total_images": 1,
+    "processed_images": [
+        {
+            "image_name": "antis.jpg",
+            "extracted_text": "1kg-19,98 €\n\nX XKX KXXX:\n\nLėtai virtos ančių kul!\nWELL DONE PREMIUM**\n400g"
+        }
+    ]
+}

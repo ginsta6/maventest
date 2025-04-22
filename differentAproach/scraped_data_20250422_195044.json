@@ -1,0 +1,3696 @@
+[
+    {
+        "section_id": "offer_list_multiple2_1",
+        "title": "Vaisiai ir daržovės",
+        "items": [
+            {
+                "name": "Juodieji pomidorai",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-37",
+                "price": "2,49",
+                "og_price": "3,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Braškės, fasuotos",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "2,29",
+                "og_price": "4,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežios bulvės tinklelyje, fasuotos",
+                "amount": "kg",
+                "time": "Iki 04.28",
+                "discount": "-41",
+                "price": "0,99",
+                "og_price": "1,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Svogūnų laiškai LINKĖJIMAI IŠ KAIMO*, fasuoti",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "1,19",
+                "og_price": "1,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Besėkliai arbūzai",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,99",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Didieji apelsinai",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-44",
+                "price": "1,49",
+                "og_price": "2,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Citrinos",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "1,79",
+                "og_price": "2,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Krapai LIVING*, fasuoti",
+                "amount": "25 g",
+                "time": "Iki 06.02",
+                "discount": "-15",
+                "price": "0,75",
+                "og_price": "0,89€",
+                "needCard": false,
+                "limitedTo": "XXX"
+            },
+            {
+                "name": "Didysis mangas",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-33",
+                "price": "1,79",
+                "og_price": "2,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Svogūnų laiškai LINKĖJIMAI IŠ KAIMO*, fasuoti",
+                "amount": "100 g",
+                "time": "Iki 06.02",
+                "discount": "-25",
+                "price": "1,19",
+                "og_price": "1,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Žaliosios besėklės vynuogės",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "2,99",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Virtos bulvės su krapais; rozmarinais; paprikomis*, 3 rūšių",
+                "amount": "430 g",
+                "time": "Iki 06.02",
+                "discount": "-20",
+                "price": "1,59",
+                "og_price": "1,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Obuoliai JONAGOLD",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "0,95",
+                "og_price": "1,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Avokadas",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-22",
+                "price": "0,69",
+                "og_price": "0,89€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ilgavaisis agurkas, fasuotas",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-43",
+                "price": "0,95",
+                "og_price": "1,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Žalieji smidrai, fasuoti",
+                "amount": "450 g",
+                "time": "Iki 04.28",
+                "discount": "-24",
+                "price": "3,79",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ridikėliai, fasuoti",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "0,89",
+                "og_price": "1,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Krapai LIVING*, fasuoti",
+                "amount": "25 g",
+                "time": "Iki 04.28",
+                "discount": "-15",
+                "price": "0,75",
+                "og_price": "0,89€",
+                "needCard": false,
+                "limitedTo": "XXX"
+            },
+            {
+                "name": "Virtos bulvės su krapais; rozmarinais; paprikomis*, 3 rūšių",
+                "amount": "430 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,59",
+                "og_price": "1,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Lietuviški lupti virti burokėliai LINKĖJIMAI IŠ KAIMO, vakuumuoti",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "-33",
+                "price": "0,59",
+                "og_price": "0,89€",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_2",
+        "title": "Mėsa ir mėsos gaminiai",
+        "items": [
+            {
+                "name": "Atšaldyta kiaulienos mentė be kaulo ir odos, vakuumuota",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "3,29",
+                "og_price": "4,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "UTENOS MĖSOS GIMINIŲ linijai*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sausai marinuotas kiaulienos sprandinės šašlykas BIOVELA",
+                "amount": "800 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "6,99",
+                "og_price": "9,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "VILNIAUS PAUKŠTYNO marinuotas viščiukas PREMIUM, 2 rūšių, fasuotas",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-23",
+                "price": "4,99",
+                "og_price": "6,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Virtos LIETUVIŠKOS sardelės*, a. r.",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "5,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežios viščiukų broilerių šlaunelės WELL DONE",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "1,79",
+                "og_price": "2,09€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Marinuoti kiaulienos sprandinės kepsniai su žolelėmis WELL DONE*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "3,49",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Švieži KREKENAVOS jautienos kukuliai GRYNUOLIAI*",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-15",
+                "price": "3,19",
+                "og_price": "3,79€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šviežias vištienos faršas VILNIAUS PAUKŠTYNAS*, rieb. ne daugiau 15 %",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-24",
+                "price": "1,89",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Smulkinta sausai brandinta jautiena*, brandinta 30 d.",
+                "amount": "450 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "3,99",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šviežioms dešrelėms WELL DONE*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "KREKENAVOS kiaulienos nugarinė GRYNUOLIAI be kaulo ir odos",
+                "amount": "360 g",
+                "time": "Iki 04.28",
+                "discount": "-34",
+                "price": "2,99",
+                "og_price": "4,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežia kiauliena guliašui ruošti WELL DONE*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-23",
+                "price": "2,29",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežia plonai pjaustyta kiaulienos šoninė WELL DONE*",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "2,29",
+                "og_price": "2,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežia kalakutų šlaunelių mėsa WELL DONE*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "7,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šviežia triušienos kumpelių mėsa*",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "3,49",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "VILNIAUS PAUKŠTYNO višč. blauzd. FIESTA su česnakiniu mar. ir kmynais*",
+                "amount": "850 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "3,59",
+                "og_price": "4,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Viščiukų broilerių sparnelių vid. dalys barbekiu marinate WELL DONE",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "-13",
+                "price": "1,99",
+                "og_price": "2,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "LIETUVIŠKAS marinuotas kiaulienos sprandinės šašlykas su česnakais*, sveriamas",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "5,99",
+                "og_price": "6,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Lėtai virti marinuoti KREKENAVOS GRILL kiaulienos šonkauliai*, fasuoti",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "8,99",
+                "og_price": "14,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Virtos SAMSONO PIENIŠKOS dešrelės*, a. r.",
+                "amount": "2 pak. × 310 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Virta KREKENAVOS DAKTARIŠKA; EKSTRA dešra*, 2 rūšių, a. r.",
+                "amount": "2 vnt. × 320 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Karštai rūkytas SAMSONO servelatas*, a. r.",
+                "amount": "220 g",
+                "time": "Iki 04.28",
+                "discount": "-42",
+                "price": "2,19",
+                "og_price": "3,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Karštai rūkyta kiaulienos nugarinė WELL DONE*, a. r., fasuota",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-10",
+                "price": "7,59",
+                "og_price": "8,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "KLEBONIŠKOS linijos vytintoms ir šaltai rūkytoms dešroms ir dešrelėms*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaltai rūkyta KREKENAVOS SKILANDINĖ dešra*, a. r.",
+                "amount": "2 pak. × 350 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pjaustytiems KLAIPĖDOS MAISTO mėsos gaminiams*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "BIOVELOS STIX linijos gaminiams*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Mėsos gaminiams MORLINY*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Karštai rūkyti viščiukų broilerių skrandukai KAIŠIADORIŲ PAUKŠTYNAS*",
+                "amount": "2 pak. × 250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,69",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Paštetams NOO LIHATOOSTUS*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviežia viščiukų broilerių filė WELL DONE*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,09",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_3",
+        "title": "Pieno gaminiai ir kiaušiniai",
+        "items": [
+            {
+                "name": "Glaistytas varškės sūrelis WELL DONE*, 7 rūšių, 21–23 % rieb.",
+                "amount": "3 vnt. × 45 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Majonezas HELLMANN’S ORIGINAL*, 76 % rieb.",
+                "amount": "625 ml",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "2,89",
+                "og_price": "5,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Saldintas sutirštintas pienas LIETUVAITĖ*, 8 % rieb.",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,29",
+                "og_price": "5,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Karamelizuotas sutirštintas pienas RUDUDU, 8 % rieb.",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,49",
+                "og_price": "5,79",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "ŽEMAITIJOS šaltibarščių kefyras*, 5 % rieb.",
+                "amount": "900 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Valgomasis jogurtas FANTASIA*, 5 rūšių, 5,3–8,4 % rieb.",
+                "amount": "3 ind. × 100–118 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Saldžios grietinėlės ROKIŠKIO sviestas*, 82 % rieb.",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "-21",
+                "price": "2,19",
+                "og_price": "2,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaltibarščių kefyras WELL DONE*, 5 % rieb.",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "1,59",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "TILŽĖS sūris riekelėmis WELL DONE*, 45 % rieb. s. m.",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "3,99",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Natūralus DVARO pienas*, 3,5 % rieb.",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "1,69",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "ROKIŠKIO NAMINIS kefyras*, 2,5 % rieb.",
+                "amount": "900 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,39",
+                "og_price": "1,55",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Avižų; kokosų; migdolų gėrimas VALSOIA*, 3 rūšių",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "1,99",
+                "og_price": "2,89€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Natūrali ŽEMAITIJOS grietinė*, 30 % rieb.",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,69",
+                "og_price": "2,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Ekologiška pusriebė varškė AUGA*, 9 % rieb.",
+                "amount": "180 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "1,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Mocarela GRANAROLO*, 44 % rieb. s. m.",
+                "amount": "210 g",
+                "time": "Iki 04.28",
+                "discount": "-21",
+                "price": "1,09",
+                "og_price": "1,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "ŽEMAITIJOS kastinys*, 2 rūšių, 30–43 % rieb.",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,05",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Tarkuotas sūris ROKIŠKIO GRAND*, 2 rūšių, 40–44 % rieb. s. m.",
+                "amount": "250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,65",
+                "og_price": "2,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Žirnių dešrelės WELL WELL*, 2 rūšių",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "2,39",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Majonezas ORIGINAL WELL DONE*, 80 % rieb.",
+                "amount": "610 g",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "2,39",
+                "og_price": "3,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ožkų pieno sūris LANDANA CHEESE MILD*, 50 % rieb. s. m., sveriamas",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "16,99",
+                "og_price": "19,69",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Lydytas sūris riekelėmis HOCHLAND*, 3 rūšių, 19–20 % rieb. s. m.",
+                "amount": "130 g",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "1,49",
+                "og_price": "2,09€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Lydytas sūris LA VACHE QUI RIT su duonos lazdelėmis*, 15,5 % rieb. s. m.",
+                "amount": "175 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "3,49",
+                "og_price": "4,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Varškės sūrio užkandis TARTARE L’APERITIF*, 3 rūšių, 70 % rieb. s. m.",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,79",
+                "og_price": "4,39",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Lydytas rūkytas RAMBYNO sūrio užkandis*, 3 rūšių, 45 % rieb. s. m.",
+                "amount": "75 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,39",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Geriamasis jogurtas GRAIKIŠKA AMFORA*, 3 rūšių, 2,4 % rieb.",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,05",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Valgomasis jogurtas WELL DONE*, 3 rūšių, 5,1 % rieb.",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,69",
+                "og_price": "0,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Varškė GRAIKIŠKA AMFORA*, 6 rūšių, 0,8 % rieb.",
+                "amount": "2 ind. × 200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,79",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ekologiška varškytė MIAU*, 3 rūšių, 6 % rieb.",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,89",
+                "og_price": "0,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ryžių košė RYTAS*, 3 rūšių, 6 % rieb.",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,39",
+                "og_price": "1,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Glaistytas varškės sūrelis POLS*, 3 rūšių, 21,1–23,6 % rieb.",
+                "amount": "45 g",
+                "time": "Iki 04.28",
+                "discount": "-24",
+                "price": "0,49",
+                "og_price": "0,65€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "UAT pienas WELL DONE*, 3,5 % rieb.",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Varškės sūris WELL DONE*, 2 rūšių, 22 % rieb. s. m.",
+                "amount": "230–250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,79",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Fetos sūris WELL DONE*, SKVN, 43 % rieb. s. m.",
+                "amount": "150 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_4",
+        "title": "Žuvis ir žuvies produktai",
+        "items": [
+            {
+                "name": "Raudonųjų lašišų ikrai ALASKA SEAFOOD",
+                "amount": "95 g",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "4,99",
+                "og_price": "9,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "SKANDINAVIŠKA silpnai sūdyta silkių filė WELL DONE",
+                "amount": "700 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Atšildytos skrostos atlantinės skumbrės be galvų*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-15",
+                "price": "5,49",
+                "og_price": "6,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šviežia upėtakio filė su oda*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-29",
+                "price": "11,99",
+                "og_price": "16,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Atšildytos virtos baltakojės blyškiosios krevetės*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-35",
+                "price": "8,99",
+                "og_price": "13,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Atšildyta nilinių tilapijų filė be odos*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "8,99",
+                "og_price": "12,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šviežia afrikinių šamų plėšikų filė be odos WELL DONE*, fasuota",
+                "amount": "170 g",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "2,49",
+                "og_price": "3,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sūdyta; šaltai rūkyta atlantinių lašišų filė OCEAN*, 2 rūšių",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "-13",
+                "price": "2,59",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Silkių filė aliejuje DESĖ*, 3 rūšių",
+                "amount": "700 g",
+                "time": "Iki 04.28",
+                "discount": "-24",
+                "price": "4,39",
+                "og_price": "5,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "BOCMANO silkių filė ZIGMAS*, 3 rūšių",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "2,39",
+                "og_price": "3,19€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kepta silkių filė pomidorų padaže su daržovėmis WELL DONE*",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,99",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Skumbrių filė pomidorų padaže; aliejuje WELL DONE*, 2 rūšių",
+                "amount": "170 g",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "1,49",
+                "og_price": "2,19€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Konservams SUN & SEA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Paštetams ARGETA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ikrų užtepėlė su krevetėmis; lašiša; kalmarais WELL DONE*, 3 rūšių",
+                "amount": "160 g",
+                "time": "Iki 04.28",
+                "discount": "-26",
+                "price": "2,19",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Lašišinių žuvų raudonieji ikrai LEMBERG*",
+                "amount": "95 g",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "6,99",
+                "og_price": "13,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_5",
+        "title": "Kulinarija",
+        "items": [
+            {
+                "name": "NICOS salotos*, fasuotos",
+                "amount": "240 g",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "1,79",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Jautienos troškinys CHILLI CON CARNE*, fasuotas",
+                "amount": "360 g",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "2,99",
+                "og_price": "3,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kepti kiaulienos kotletai su bulvių koše*, fasuoti",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "2,09",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "CEZARIO salotos su krevetėmis*, fasuotos",
+                "amount": "180 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "2,39",
+                "og_price": "2,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Salotos su kuskusu, daržovėmis ir DŽIUGO sūriu*, fasuotos",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "1,59",
+                "og_price": "2,29€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Ryžių ir krabų skonio lazdelių salotos, fasuotos",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-11",
+                "price": "1,49",
+                "og_price": "1,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Bulvių plokštainis su spirgučiais*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "5,99",
+                "og_price": "6,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Marinuotos ŽARIJOS viščiukų broilerių blauzdelės be antibiotikų*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-12",
+                "price": "6,59",
+                "og_price": "7,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_6",
+        "title": "Konditerija",
+        "items": [
+            {
+                "name": "Kruasanas su karameliniu įdaru*, 75 g",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-43",
+                "price": "0,39",
+                "og_price": "0,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pyragėlis su kreminiu braškių įdaru CHEESECAKE*, 73 g",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "0,59",
+                "og_price": "0,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviesi duona su sėklomis ir traškia plutele*, 490 g",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-23",
+                "price": "0,99",
+                "og_price": "1,29€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Veganiška duona su kanapėmis*, 390 g",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-11",
+                "price": "1,29",
+                "og_price": "1,45€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pyragėlis PATTY su vištiena*, 130 g",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Spurga su braškių skonio įdaru ir rožiniu glaistu (atitirpinta)",
+                "amount": "2 vnt. × 70 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pica su kumpiu ir paprikomis; vištiena, pomidorais ir svogūnais*, 2 rūšių",
+                "amount": "165 g",
+                "time": "Iki 04.28",
+                "discount": "-17",
+                "price": "1,19",
+                "og_price": "1,45€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sluoksniuota bandelė MIGDOLINIS SKANĖSTAS*",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "-10",
+                "price": "1,15",
+                "og_price": "1,29€",
+                "needCard": false,
+                "limitedTo": "XXX"
+            },
+            {
+                "name": "Keksas su razinomis*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-10",
+                "price": "4,49",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Sūrio tortas su levandomis*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-11",
+                "price": "11,99",
+                "og_price": "13,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Sūrio tortas su karamele SNIKERIS*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-11",
+                "price": "11,99",
+                "og_price": "13,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Vyniotinis su sūria karamele*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-10",
+                "price": "8,99",
+                "og_price": "9,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Plokštainis su mangų ir pasiflorų kremu*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "-12",
+                "price": "10,49",
+                "og_price": "11,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Vyšnių skonio želė su mandarinais*, fasuota",
+                "amount": "450 g",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "2,99",
+                "og_price": "3,49€",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_7",
+        "title": "Duonos gaminiai",
+        "items": [
+            {
+                "name": "Raikytas SOSTINĖS batonas VILNIAUS DUONA*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-23",
+                "price": "0,99",
+                "og_price": "1,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sumuštinių raikyta duona su sėklomis BEATOS VIRTUVĖ*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,75",
+                "og_price": "2,19€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šviesi ruginė raikyta PALANGOS duona*",
+                "amount": "700 g",
+                "time": "Iki 04.28",
+                "discount": "-18",
+                "price": "1,45",
+                "og_price": "1,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Juoda raikyta BOČIŲ duona GARDĖSIS*",
+                "amount": "800 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,59",
+                "og_price": "1,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ruginė raikyta duona JONĖ*, 3 rūšių",
+                "amount": "340–390 g",
+                "time": "Iki 04.28",
+                "discount": "-18",
+                "price": "1,35",
+                "og_price": "1,65€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "KAKĖS MAKĖS duonelės*",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,75",
+                "og_price": "2,19€",
+                "needCard": false,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_8",
+        "title": "Šaldytas maistas",
+        "items": [
+            {
+                "name": "Šaldyta glazūruota aliaskinių rudagalvių menkių filė NOWACO be odos*",
+                "amount": "490 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,95",
+                "og_price": "3,69",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaldytos baltakojės blyškiosios krevetės SUNRISE*",
+                "amount": "225 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,79",
+                "og_price": "5,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaldyti kalmarų žiedai WELL DONE*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,49",
+                "og_price": "2,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Glaistytas plombyras ant pagaliuko NYKŠTUKAS*, 6 rūšių",
+                "amount": "2 vnt. × 58–63 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Plombyras; valgomieji ledai puodelyje KAR KAR*, 3 rūšių",
+                "amount": "70 g",
+                "time": "Iki 04.28",
+                "discount": "-36",
+                "price": "0,69",
+                "og_price": "1,09€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Plombyras ragelyje WELL DONE*, 3 rūšių",
+                "amount": "90 g",
+                "time": "Iki 04.28",
+                "discount": "-41",
+                "price": "0,99",
+                "og_price": "1,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Valgomieji ledai KINDER BUENO WHITE; RAFFAELLO; KINDER BUENO*, 3 rūšių",
+                "amount": "47–62 g",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "1,49",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Valgomieji KARALIŠKI ledai*, 3 rūšių",
+                "amount": "420–435 g",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "4,14",
+                "og_price": "8,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šerbeto rutuliukai MINI MELTS BIG*, 2 rūšių",
+                "amount": "72 g",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "1,29",
+                "og_price": "1,89€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaldyti SIBIRIETIŠKI koldūnai JUDEX su mėsos įdaru*",
+                "amount": "2 kg",
+                "time": "Iki 04.28",
+                "discount": "-32",
+                "price": "3,99",
+                "og_price": "5,95€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaldyti virtiniai JUDEX su bulvių ir rūkytos šoninės įdaru*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-20",
+                "price": "1,59",
+                "og_price": "1,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaldyta pica GOURMET; AMERICANA WELL DONE*, 2 rūšių",
+                "amount": "420–425 g",
+                "time": "Iki 04.28",
+                "discount": "-32",
+                "price": "2,29",
+                "og_price": "3,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaldytos bulvių skiltelės su odelėmis NATALI PREMIUM*",
+                "amount": "600 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,15",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Daržovių mišinys WELL DONE*, 2 rūšių",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaldyti sviestiniai kruasanai MANTINGA*",
+                "amount": "1 pak. (6 vnt. × 60 g)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,29",
+                "og_price": "3,85",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaldyta pica WELL DONE MARGHERITA*",
+                "amount": "350 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_9",
+        "title": "Saldumynai",
+        "items": [
+            {
+                "name": "Produkcijai SELGA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Juodasis šokoladas LINDT EXCELLENCE*, 3 rūšių",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,59",
+                "og_price": "5,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šokoladiniai saldainiai FERRERO ROCHER*",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,19",
+                "og_price": "7,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Jogurto skonio RŪTA baltasis šokoladas ŠALTIBARŠČIŲ PORTRETAS*",
+                "amount": "90 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,49",
+                "needCard": true,
+                "limitedTo": "XXX"
+            },
+            {
+                "name": "BIRŽŲ DUONOS bananų skonio plokštainis, fasuotas",
+                "amount": "310 g",
+                "time": "Iki 04.28",
+                "discount": "-18",
+                "price": "2,99",
+                "og_price": "3,69€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pieninis šokoladas WELL DONE su lazdynų riešutais*",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Meduoliai su medumi JDC*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "BIRŽŲ DUONOS sausainiai SNIEGUTIS*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "2,69",
+                "og_price": "3,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sausainiai su žele JAFFA*, 3 rūšių",
+                "amount": "135 g",
+                "time": "Iki 04.28",
+                "discount": "-26",
+                "price": "0,95",
+                "og_price": "1,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sausainiai su lazdynų riešutų įdaru WELL DONE*",
+                "amount": "175 g",
+                "time": "Iki 04.28",
+                "discount": "-26",
+                "price": "1,39",
+                "og_price": "1,89€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sviestiniai sausainiai MULINO BIANCO*, 3 rūšių",
+                "amount": "350 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,25",
+                "og_price": "2,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Saldainiams dėžutėse RŪTA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Juodasis šokoladas PERGALĖ*, 3 rūšių",
+                "amount": "85 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "2,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vanilės skonio zefyrų puselės PERGALĖ*",
+                "amount": "505 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,79",
+                "og_price": "3,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šokoladinis batonėlis LION, 3 rūšių",
+                "amount": "60–62 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,69",
+                "og_price": "1,09",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Guminukai ROWNTREES RANDOMS*, 3 rūšių",
+                "amount": "130–140 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Guminukai HARIBO*, 3 rūšių",
+                "amount": "175 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "2,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kramtomieji saldainiai SKITTLES*, 3 rūšių",
+                "amount": "116–152 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,69",
+                "og_price": "2,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Produkcijai ZOZOLE*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Grietininiai ledinukai WERTHER’S ORIGINAL*",
+                "amount": "50 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,59",
+                "og_price": "0,75",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Ledinukai HALLS*, 10 rūšių",
+                "amount": "2 pak. × 34 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kramtomoji guma ORBIT*, 3 rūšių",
+                "amount": "14 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,59",
+                "og_price": "0,85",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_10",
+        "title": "Bakalėja",
+        "items": [
+            {
+                "name": "Produkcijai SKANĖJA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Perkant 2 ar daugiau makaronų, padažų ir kečupo",
+                "amount": "taikoma 25 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Perkant 2 ar daugiau aliejaus ir prieskonių",
+                "amount": "taikoma 25 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Makaronams DIVELLA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Alyvuogių aliejui SPARTA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "STUDENTŲ maistas su riešutais, džiovintais vaisiais ARIMEX PREMIUM*",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,49",
+                "og_price": "5,89",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kukurūzų traškučiai CHEETOS*, 5 rūšių",
+                "amount": "2 pak. × 145–165 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,59",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaltibarščių skonio bulvių traškučiai CHAZZ*",
+                "amount": "130 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaltibarščių skonio duonos traškučiai CHAZZ*",
+                "amount": "100 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,59",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaltibarčių skonio VYTAUTO DIDŽIOJO kepta duona*",
+                "amount": "100 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "0,79",
+                "og_price": "0,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Vištienos salotos FIT & EASY*, 2 rūšių, fasuotos",
+                "amount": "222–270 g",
+                "time": "Iki 04.28",
+                "discount": "-15",
+                "price": "3,19",
+                "og_price": "3,79€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Čeburekas su kiaulienos; vištienos ir sūrio įdaru MANTINGA*, 2 rūšių",
+                "amount": "2 pak. × 130 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sumuštinis su vištiena, sūriu ir barbekiu padažu SUPER ONE",
+                "amount": "240 g",
+                "time": "Iki 04.28",
+                "discount": "-14",
+                "price": "2,29",
+                "og_price": "2,69€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Majonezinis PIKANTIŠKAS padažas VILNIUS*, 25 % rieb.",
+                "amount": "420 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "SUSLAVIČIAUS pomidorų kečupas*, 3 rūšių",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,89",
+                "og_price": "2,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Batonėliams TEKMAR*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Baltyminis batonėlis ME2U PROTEIN*, 3 rūšių",
+                "amount": "60 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "1,49",
+                "og_price": "2,15€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pusryčių dribsniai KELLOGG’S*, 2 rūšių",
+                "amount": "330–375 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "3,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Granola FIBERA*, 3 rūšių",
+                "amount": "350 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,39",
+                "og_price": "2,19",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Avižiniai dribsniai ELOVENA*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "1,79",
+                "og_price": "2,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Ekologiška avižinė košė AUGA*, 2 rūšių",
+                "amount": "60 g",
+                "time": "Iki 04.28",
+                "discount": "-33",
+                "price": "0,99",
+                "og_price": "1,49€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Miltams ir miltų mišiniams WELL DONE*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "GINTARINIAI makaronai*, 3 rūšių",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "-33",
+                "price": "0,59",
+                "og_price": "0,89€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Greitai paruošiami makaronai OYAKATA*, 3 rūšių",
+                "amount": "64–96 g",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "1,49",
+                "og_price": "2,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Baltasis cukrus WELL DONE*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,79",
+                "og_price": "1,09",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Juodieji pipirai SANTA MARIA*, 3 rūšių",
+                "amount": "160–220 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Produkcijai VEGETA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Alyvuogių aliejams BORGES*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pirmo spaudimo ypač grynas alyvuogių aliejus BARBERA*",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "10,99",
+                "og_price": "15,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Balzaminis Modenos acto kremas ANTICHI COLLI*",
+                "amount": "250 ml",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "2,99",
+                "og_price": "4,19€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kokosų kremas WELL DONE*, 20–22 % rieb.",
+                "amount": "400 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "2,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Produkcijai SAITAKU*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Tortilijos WELL DONE*",
+                "amount": "320 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Bolivinės balandos WELL DONE*",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Prieskoniai WELL DONE*, 3 rūšių",
+                "amount": "60–100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,09",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Jūrų dumblių užkandis WELL DONE*, 2 rūšių",
+                "amount": "1 pak. (3 vnt. × 4 g)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,69",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Bulvių traškučiai ESTRELLA*, 3 rūšių",
+                "amount": "250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,79",
+                "og_price": "3,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kukurūzų traškučiai TAFFEL*, 3 rūšių",
+                "amount": "165 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,19",
+                "og_price": "2,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Traškus užkandis LONG CHIPS*, 3 rūšių",
+                "amount": "75 g",
+                "time": "Iki 04.28",
+                "discount": "-26",
+                "price": "0,95",
+                "og_price": "1,29€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Riešutų ir razinų mišinys ARIMEX*",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "9,99",
+                "og_price": "13,55",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Sūdytos kepintos pistacijos WELL DONE*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "9,35",
+                "og_price": "12,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Juodos kepintos saulėgrąžų sėklos BAZARO*, 2 rūšių",
+                "amount": "300 g",
+                "time": "Iki 04.28",
+                "discount": "-24",
+                "price": "2,55",
+                "og_price": "3,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Žemės riešutai traškioje luobelėje JĖGA*, 2 rūšių",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,79",
+                "og_price": "3,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Spraginamieji kukurūzai MOGYI*, 3 rūšių",
+                "amount": "100 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,69",
+                "og_price": "0,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Traškūs krekeriai ELEPHANT*, 2 rūšių",
+                "amount": "180 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,09",
+                "og_price": "2,59",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Traškios ruginės duonelės FINN CRISP ORIGINAL*",
+                "amount": "200 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,69",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kukurūzų trapučiai SAULĖS GRŪDAS*, 5 rūšių",
+                "amount": "2 pak. × 60 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,59",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_11",
+        "title": "Konservuotas maistas",
+        "items": [
+            {
+                "name": "Marinuoti pjaustyti burokėliai WELL DONE*",
+                "amount": "500 g",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "0,89",
+                "og_price": "1,09",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "DAUMANTŲ TRADICINIS pomidorų padažas*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "DAUMANTŲ TRADICINIAI marinuoti pjaustyti burokėliai*",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,59",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Konservuoti žalieji žirneliai BONDUELLE PREMIUM*",
+                "amount": "660 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "2,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Saulėje džiovinti pomidorai GUSTOSELLI*",
+                "amount": "280 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "2,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Konservuoti smulkinti; lupti pomidorai WELL DONE ITALY*, 2 rūšių",
+                "amount": "400 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,19",
+                "og_price": "1,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Spanguolių; braškių; vyšnių uogienė WELL DONE*, 3 rūšių",
+                "amount": "350 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "2,39",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_12",
+        "title": "Kava, kakava, arbata",
+        "items": [
+            {
+                "name": "Kavai JACOBS*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kavos kapsulės NESCAFÉ DOLCE GUSTO*, 3 rūšių",
+                "amount": "1 dėž. (16 pak.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,49",
+                "og_price": "7,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Arbatai TWININGS*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Malta kava LAVAZZA*, 2 rūšių",
+                "amount": "250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,49",
+                "og_price": "8,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Malta kava PAULIG CLASSIC*, 2 rūšių",
+                "amount": "500 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "6,89",
+                "og_price": "8,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kavos pupelės PAULIG*, 3 rūšių",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "17,99",
+                "og_price": "23,89",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Maltai kavai",
+                "amount": "kavos pupelėms ir kavos kapsulėms L’OR*",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kavos kapsulės LAVAZZA*, 3 rūšių",
+                "amount": "2 vnt. × 1 dėž. (10 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "6,99",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kavos pupelės DALLMAYR HOME BARISTA*, 3 rūšių",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "14,99",
+                "og_price": "23,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Tirpiosios kavos gėrimas NESCAFÉ STRONG*",
+                "amount": "250 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "7,69",
+                "og_price": "10,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Tirpiosios kavos gėrimas NESCAFÉ CLASSIC 3 IN 1*",
+                "amount": "1 maiš. (20 pak.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,59",
+                "og_price": "5,09",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Arbatai LOYD*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vaisinė arbata ŽOLYNĖLIS*, 3 rūšių",
+                "amount": "1 dėž. (20 pak.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,19",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vaisinė; žolelių arbata WELL DONE*, 3 rūšių",
+                "amount": "1 dėž. (20 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,59",
+                "og_price": "2,29",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_13",
+        "title": "Gėrimai",
+        "items": [
+            {
+                "name": "Gazuotas gėrimas PEPSI; PEPSI MAX*, 2 rūšių",
+                "amount": "2 l",
+                "time": "Iki 04.28",
+                "discount": "-48",
+                "price": "1,19",
+                "og_price": "2,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Gazuotas gėrimas COCA COLA; FANTA; SPRITE*, 6 rūšių, 3 skard. × 0",
+                "amount": "33 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,59",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Natūralus mineralinis vanduo RASA*, 3 rūšių, 1",
+                "amount": "5 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,45",
+                "og_price": "0,75",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Natūralus mineralinis vanduo DRUSKININKŲ HERMIS*, 3 rūšių",
+                "amount": "2 but. × 1 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,75",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Apelsinų ir raudonųjų Sicilijos apelsinų sulčių gėrimas TYMBARK*",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,55",
+                "og_price": "2,05",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Nektarams ir gaiviesiems gėrimams KUBUŠ*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Šaltosios arbatos gėrimas FUZETEA*, 3 rūšių, 1",
+                "amount": "5 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,35",
+                "og_price": "1,95",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Gaivusis gėrimas HOHES C*, 4 rūšių",
+                "amount": "2 but. × 750 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Gazuotas gėrimas FANTA; SPRITE; SPRITE ZERO*, 3 rūšių, 1",
+                "amount": "5 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,39",
+                "og_price": "2,15",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Gaivusis gėrimas RASA SULTINGA*, 3 rūšių, 1",
+                "amount": "5 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "GUBERNIJOS gira RUGILĖ*",
+                "amount": "2 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "1,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Energinis gėrimas CULT*, 3 rūšių",
+                "amount": "500 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,89",
+                "og_price": "1,39",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Nealkoholinis putojantis baltasis pusiau sausas vynas LA GIOIOSA*",
+                "amount": "750 ml",
+                "time": "Iki 04.28",
+                "discount": "-25",
+                "price": "5,99",
+                "og_price": "7,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_14",
+        "title": "Kūdikių ir vaikų prekės",
+        "items": [
+            {
+                "name": "Kūdikių servetėlės PAMPERS HARMONIE*",
+                "amount": "1 pak. (144 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "7,39",
+                "og_price": "10,59€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kūdikių tyrelėms",
+                "amount": "košėms ir užkandžiams SEMPER ir GOODIES*",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sauskelnės PAMPERS PREMIUM CARE*, 3 rūšių, 4; 3; 5 dydžiai",
+                "amount": "1 pak. (52; 60; 44 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "14,99",
+                "og_price": "21,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sauskelnės-kelnaitės GRITE OOPSIES*, 3 rūšių, 4; 5; 6 dydžiai",
+                "amount": "1 pak. (22; 20; 18 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,19",
+                "og_price": "11,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_15",
+        "title": "Prekės gyvūnams",
+        "items": [
+            {
+                "name": "Konservuotas šunų ėdalas PURINA FRISKIES*, 2 rūšių",
+                "amount": "1 pak. (4 vnt. × 85 g)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,45",
+                "og_price": "2,09",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sausas kačių ėdalas PURINA FRISKIES*, 3 rūšių",
+                "amount": "1 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,19",
+                "og_price": "4,59",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Konservuotas kačių ėdalas PURINA GOURMET PERLE*, 2 rūšių",
+                "amount": "1 pak. (4 vnt. × 85 g)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,45",
+                "og_price": "3,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Konservuotas kačių ėdalas LOVETT*, 3 rūšių",
+                "amount": "1 pak. (4 vnt. × 100 g)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,09",
+                "og_price": "1,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Sausas šūnų ėdalas ARDOUR*, 2 rūšių, 1",
+                "amount": "5 kg",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,89",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Silikoninis kačių kraikas CLEAN & TIDY*, 2 rūšių, 3",
+                "amount": "8 l",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,69",
+                "og_price": "5,29",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_16",
+        "title": "Kosmetika ir higiena",
+        "items": [
+            {
+                "name": "Burnos priežiūros priemonėms THE HUMBLE CO.*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Dantų pasta COLGATE TOTAL*, 2 rūšių",
+                "amount": "75 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,19",
+                "og_price": "4,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Gabalinis tualetinis muilas DOVE*, 3 rūšių",
+                "amount": "90 g",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,85",
+                "og_price": "1,25",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Plaukų šampūnas AUSSIE*, 3 rūšių",
+                "amount": "300 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "6,39",
+                "og_price": "9,89",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Plaukų šampūnas SCHWARZKOPH GLISS*, 3 rūšių",
+                "amount": "400 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,05",
+                "og_price": "6,79",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Dušo želė FA*, 3 rūšių",
+                "amount": "400 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Rankų kremas NEUTROGENA*",
+                "amount": "75 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,39",
+                "og_price": "6,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kosmetikai KILIG*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Universalusis kremas NIVEA CREME*",
+                "amount": "150 ml",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Dažomasis plaukų kremas PALETTE INTENSIVE COLOR CREME*, 3 rūšių",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,29",
+                "og_price": "5,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Tualetinis popierius ZEWA DELUXE DELICATE CARE*, 3 sluoksnių",
+                "amount": "1 pak. (20 rit.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "8,49",
+                "og_price": "16,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Popieriniai rankšluosčiai ZEWA WISCH & WEG*, 2 sluoksnių",
+                "amount": "1 pak. (2 rit.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,69",
+                "og_price": "5,49",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Higieniniai įklotai NATURELLA*, 2 rūšių",
+                "amount": "1 pak. (74; 100 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "4,25",
+                "og_price": "6,09€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Higieniniai paketai LIBRESSE ULTRA THIN*",
+                "amount": "1 pak. (20 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,09",
+                "og_price": "3,49",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_17",
+        "title": "Buitinė chemija",
+        "items": [
+            {
+                "name": "Skystasis skalbiklis PERWOLL RENEW*, 3 rūšių",
+                "amount": "3 l (60 skalb.)",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "11,39",
+                "og_price": "18,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Prekėms NEUTRAL*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Skalbiamosios kapsulės ARIEL*, 2 rūšių",
+                "amount": "1 pak. (52; 63 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "16,19",
+                "og_price": "32,49",
+                "needCard": true,
+                "limitedTo": "XXX"
+            },
+            {
+                "name": "Skystasis skalbiklis BONUX 3 IN 1*, 2 rūšių",
+                "amount": "900 ml (18 skalb.)",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "4,05",
+                "og_price": "5,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Skalbinių minkštiklis LENOR FRESH AIR*, 3 rūšių",
+                "amount": "770 ml (55 skalb.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,49",
+                "og_price": "9,09",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Indų ploviklis FAIRY*, 3 rūšių",
+                "amount": "900 ml",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "3,05",
+                "og_price": "4,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Indaplovių kapsulės FAIRY*, 3 rūšių",
+                "amount": "1 pak. (51; 40; 71 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "20,85",
+                "og_price": "29,79€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Valiklis AJAX*, 3 rūšių",
+                "amount": "1 l",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "2,49",
+                "og_price": "3,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "WC valiklis-gaiviklis DOMESTOS POWER 5*, 3 rūšių",
+                "amount": "1 pak. (2 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "2,55",
+                "og_price": "4,29€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Oro gaiviklis AIRWICK*, 2 rūšių",
+                "amount": "300 ml",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "1,95",
+                "og_price": "3,29€",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_18",
+        "title": "Pramonės prekės",
+        "items": [
+            {
+                "name": "Kepurė SEVEN LEMON*, 2 rūšių",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kepurė SEVEN LEMON*, 2 rūšių",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "4,99",
+                "og_price": "8,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Perkant 2 ar daugiau šiukšlių maišų, gum. piršt., dėžių ir šluotų",
+                "amount": "taikoma 40 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Suaugusiųjų marškinėliai SEVEN LEMON*, 2 rūšių, S–XL dydžiai",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "7,99",
+                "og_price": "13,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Perkant 2 ar daugiau pat. komplektų, antkl., pagalvių, rankšl.ir pledų",
+                "amount": "taikoma 40 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Lietpaltis SEVEN LEMON*",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "6,99",
+                "og_price": "12,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Paplūdimio rankšluostis ILAJA*, 90 × 170 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "4,79",
+                "og_price": "7,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pirkinių maišelis*, 39 × 41 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Paplūdimio krepšys SEVEN LEMON*",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "7,99",
+                "og_price": "13,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šaltkrepšis SEVEN LEMON*, 28 l, 32 × 25 × 35 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "7,99",
+                "og_price": "13,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Moteriškos šlepetės SEVEN LEMON*, 2 rūšių, 34–41; 37–42 dydžiai",
+                "amount": "1 pora",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "9,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Skėtis SEVEN LEMON*",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "8,99",
+                "og_price": "14,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pliušinis pakabukas šaltibarščiai FOXTER*",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,79",
+                "og_price": "2,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Prijuostė ELDORADO HOME*, 70 × 86 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Virtuvės komplektas ELDORADO HOME*, 1 rink. (2 vnt.)",
+                "amount": "18 × 30 cm; 20 × 20 cm",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Virtuvės rankšluosčių komplektas ELDORADO HOME*, 3 × 45 × 65 cm",
+                "amount": "1 rink. (3 vnt.)",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Staltiesė ELDORADO HOME*, 130 × 180 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "6,99",
+                "og_price": "11,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Padėkliukas ILAJA*, 43,5 × 28,5 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,69",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pjaustymo lentelė ILAJA*, 30 × 20 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pjaustymo lentelė ILAJA*, 30 × 20 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kojinėms ir pėdkelnėms SKINIJA*",
+                "amount": "",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Dubenėlis ILAJA COLD SOUP*, 16 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "3,49",
+                "og_price": "5,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Puodas su dangčiu ILAJA*, 24 cm",
+                "amount": "1 rink.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "9,99",
+                "og_price": "16,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kiaušinių pjaustyklė ILAJA*",
+                "amount": "1 vnt.",
+                "time": "Iki 06.02",
+                "discount": "",
+                "price": "2,29",
+                "og_price": "3,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Satininės patalynės komplektas ELDORADO HOME*, 2 dizainų, 140 × 200; 50 × 70cm",
+                "amount": "1 kompl.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "13,19",
+                "og_price": "21,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pledas ELDORADO HOME*, 2 spalvų, 200 × 220 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "11,99",
+                "og_price": "19,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Krepšys*, ø 21 × 12 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,29",
+                "og_price": "5,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Krepšys*, ø 27 × 14 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "6,59",
+                "og_price": "10,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Krepšys*, ø 32 × 16 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "7,79",
+                "og_price": "12,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Satininė paklodė su guma ELDORADO HOME*, 160 × 200 + 30 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "8,99",
+                "og_price": "16,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Satininė paklodė su guma ELDORADO HOME*, 180 × 200 + 30 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "9,99",
+                "og_price": "17,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Pagalvių rinkinys ELDORADO HOME*, 50 × 70 cm",
+                "amount": "1 pak. (2 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "14,99",
+                "og_price": "24,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kilpinių rankšluosčių rinkinys ELDORADO HOME*, 50 × 90 cm",
+                "amount": "1 rink. (2 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "11,99",
+                "og_price": "19,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Staltiesė ELDORADO HOME*, 2 dizainų, 130 × 180 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "6,39",
+                "og_price": "10,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pėdkelnėms, puskojinėms",
+                "amount": "kojinaitėms INCANTO ir GLAMOUR*",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vaikiškos; mot.; vyr. kojinės SEVEN LEMON*, 24–29; 37–42;39–46 dydžiai",
+                "amount": "1 pak. (5 poros)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vyriškos boksikės SEVEN LEMON*, M–XXL dydžiai",
+                "amount": "1 pak. (3 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "10,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Stalo šviestuvas SOLID*",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "9,99",
+                "og_price": "16,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Belaidės ausinės WESTROM*",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "15,99",
+                "og_price": "29,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Belaidės ausinės su mikrofonu WESTROM*",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "9,99",
+                "og_price": "16,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Maisto saugojimo ir šaldymo dėžutė su rankena HOME EXPERT*, 30 × 13,5 × 11 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Sukamasis plastikinis padėklas HOME EXPERT*, 33 × 33 × 3,7 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "9,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Gertuvė UNIWELL*, 2 spalvų, 700 ml",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "9,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Metalinis dubuo UNIWELL MESH*, ø 30 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "5,99",
+                "og_price": "9,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Birių produktų indas UNIWELL RUSTIC*, 1 l",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,59",
+                "og_price": "5,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Puodelis AURORA AGAMA*, 300 ml",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,69",
+                "og_price": "4,49",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Pjaustymo lentelė UNIWELL*, 2 spalvų, ø 30 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,99",
+                "og_price": "8,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Virtuvinis šaukštas ir mentelė FISKARS*",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "14,99",
+                "og_price": "29,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Keptuvė FISKARS*, ø 28 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "23,99",
+                "og_price": "42,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Prikaistuvis su dangčiu UNIWELL*, ø 16 cm",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "12,99",
+                "og_price": "23,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Puodas su dangčiu UNIWELL*, ø 20 cm",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "16,99",
+                "og_price": "29,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Puodas su dangčiu UNIWELL*, ø 22 cm",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "18,99",
+                "og_price": "32,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Indelis maistui laikyti UNIWELL*, 1 l",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "2,99",
+                "og_price": "4,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Indų plovimo šepetėlis HOME EXPERT*, 12,5 × 10 × 2 cm",
+                "amount": "1 vnt.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,95",
+                "og_price": "3,29",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Valymo reikmenų rinkinys SWIFFER*",
+                "amount": "1 rink.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "15,59",
+                "og_price": "25,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šlapios šluostės SWIFFER papildymas*, 2 rūšių",
+                "amount": "1 pak. (10; 18 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "4,19",
+                "og_price": "6,99",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Šiukšlių maišai HOME EXPERT*, 60; 35 l",
+                "amount": "1 rit. (16; 24 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,29",
+                "og_price": "2,19",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "LEMPUTĖMS",
+                "amount": "ELEMENTAMS IR ILGIKLIAMS*",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Elementai PRO POWER PANASONIC*, 2 rūšių, AAA; AA",
+                "amount": "1 pak. (10 vnt.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "3,99",
+                "og_price": "7,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vasarinis automobilių stiklų ploviklis ROTZ*, –4 ºC, 3 l",
+                "amount": "1 pak.",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,49",
+                "og_price": "2,79",
+                "needCard": true,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Kapų žvakė GERALDA*",
+                "amount": "1 vnt. (24 val.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,99",
+                "og_price": "1,69",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kapų žvakė GERALDA*",
+                "amount": "1 vnt. (55 val.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,99",
+                "og_price": "3,39",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kapų žvakė, širdelės formos GERALDA*",
+                "amount": "1 vnt. (45 val.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,89",
+                "og_price": "3,29",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kapų žvakės įdėklas BOLSIUS*",
+                "amount": "1 vnt. (35 val.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "0,49",
+                "og_price": "0,99",
+                "needCard": true,
+                "limitedTo": ""
+            },
+            {
+                "name": "Kapų žvakės įdėklas BOLSIUS*",
+                "amount": "1 vnt. (100 val.)",
+                "time": "Iki 04.28",
+                "discount": "",
+                "price": "1,25",
+                "og_price": "2,09",
+                "needCard": true,
+                "limitedTo": ""
+            }
+        ]
+    },
+    {
+        "section_id": "offer_list_multiple2_19",
+        "title": "Augalai ir jų priežiūros prekės",
+        "items": [
+            {
+                "name": "Tulpių puokštė, 35 cm",
+                "amount": "1 puokštė – 7 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-36",
+                "price": "3,49",
+                "og_price": "5,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Rožių puokštė, 35 cm",
+                "amount": "1 puokštė – 11 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "2,99",
+                "og_price": "4,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Eustomų puokštė*, 50 cm",
+                "amount": "1 puokštė – 5 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "6,99",
+                "og_price": "9,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Rožių puokštė, 35 cm",
+                "amount": "1 puokštė – 11 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-31",
+                "price": "2,99",
+                "og_price": "4,39€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vilkdalgių puokštė*, 50 cm",
+                "amount": "1 puokštė – 7 vnt.",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "2,99",
+                "og_price": "4,99€",
+                "needCard": false,
+                "limitedTo": "XX"
+            },
+            {
+                "name": "Vazoninis augalas levanda ANOUK*",
+                "amount": "1 vaz.",
+                "time": "Iki 04.28",
+                "discount": "-35",
+                "price": "4,49",
+                "og_price": "6,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Lauko augalas rododendras*, įvairių spalvų",
+                "amount": "1 vaz.",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "6,99",
+                "og_price": "9,99€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Vazoninė gėlė rožytė*, įvairių spalvų",
+                "amount": "1 vaz.",
+                "time": "Iki 04.28",
+                "discount": "-30",
+                "price": "2,49",
+                "og_price": "3,59€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Gėlių krepšelis*, įvairių spalvų",
+                "amount": "1 krepš.",
+                "time": "Iki 04.28",
+                "discount": "-28",
+                "price": "2,49",
+                "og_price": "3,49€",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Perkant 2 ar daugiau sodinukų dėžutėse GARDEN GURU",
+                "amount": "taikoma 50 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-50",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            },
+            {
+                "name": "Perkant 2 ar daugiau visų sėklų ir gėlių svogūnėlių",
+                "amount": "taikoma 40 % nuolaida*",
+                "time": "Iki 04.28",
+                "discount": "-40",
+                "price": "",
+                "og_price": "",
+                "needCard": false,
+                "limitedTo": ""
+            }
+        ]
+    }
+]
